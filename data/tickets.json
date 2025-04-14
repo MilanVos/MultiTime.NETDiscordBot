@@ -1,0 +1,21 @@
+{
+    "tickets": [
+        {
+            "id": "0001",
+            "user_id": 1340837634049839175,
+            "channel_id": 1361101581449167140,
+            "status": "closed",
+            "created_at": "2025-04-14T00:11:44.263318",
+            "messages": [],
+            "closed_by": 1340837634049839175,
+            "close_reason": "kut kind",
+            "closed_at": "2025-04-14T00:17:57.038912"
+        }
+    ],
+    "settings": {
+        "category_id": 1346859494860259339,
+        "log_channel_id": 1346859439944237137,
+        "panel_message_id": 1361101533579710634,
+        "panel_channel_id": 1346858091907645532
+    }
+}

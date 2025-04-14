@@ -1,0 +1,51 @@
+{
+    "applications": [
+        {
+            "id": "1",
+            "user_id": 1340837634049839175,
+            "channel_id": 1361100909504892933,
+            "status": "denied",
+            "created_at": "2025-04-14T00:09:03.932575",
+            "responses": {
+                "question_1": "test",
+                "question_2": "test",
+                "question_3": "test",
+                "question_4": "test",
+                "question_5": "test"
+            },
+            "closed_by": 1340837634049839175,
+            "close_reason": "No reason provided"
+        },
+        {
+            "id": "2",
+            "user_id": 1223447432910864396,
+            "channel_id": 1361103751531724900,
+            "status": "open",
+            "created_at": "2025-04-14T00:20:21.486660",
+            "responses": {
+                "question_1": "Iby",
+                "question_2": "16",
+                "question_3": "i play minecraft from 2017 and i am a good builder and i also have good idea's",
+                "question_4": "i want to be a content member and i love to help people with their problems and i answer their questions if they ask and i will stand up for every problem to fix and help also the server grow"
+            }
+        },
+        {
+            "id": "3",
+            "user_id": 1223447432910864396,
+            "channel_id": 1361104094235983963,
+            "status": "open",
+            "created_at": "2025-04-14T00:21:43.203316",
+            "responses": {
+                "question_1": "Iby",
+                "question_2": "16",
+                "question_3": "i want to be a content member and i love to help people with their problems and i answer their questions if they ask and i will stand up for every problem to fix and help also the server grow",
+                "question_4": "I've been playing minecaft since 2017 im a good builder and Help the server",
+                "question_5": "i can decicate a good 4 days of work per week"
+            }
+        }
+    ],
+    "settings": {
+        "category_id": 1346867954599592047,
+        "log_channel_id": 1360963032804626462
+    }
+}
